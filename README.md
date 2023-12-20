@@ -6,3 +6,6 @@ You can use the source code to host it on a preferred server.
 
 # What does this do?
 It uses P2P and Realtime networks to message. 
+
+# Credits
+Credits to dabit3 for making the original messaging app, I just want to make the messaging community better.
